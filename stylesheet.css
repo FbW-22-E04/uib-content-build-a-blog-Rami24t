@@ -1,0 +1,45 @@
+/* Style Sheet for the Blog */
+
+.floatRight {
+    float: right;
+}
+.floatLeft {
+    float: left;
+}
+
+#index img {
+    width: 100%;
+    max-width: 900px; 
+    margin: auto;
+}
+
+.post img{
+    margin: auto;
+    width: auto;
+    max-width: 100%;
+}
+
+body{
+    background-color: #b6c0ca;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+a:link{
+    color: green;
+}
+a:visited{
+    color: #57757f;    
+}
+a:hover{
+    color: #fcf0e0;
+}
+a:focus{
+    color: #fcf0e0;
+}
+a:active {
+    color: rgb(254, 255, 168);
+}
